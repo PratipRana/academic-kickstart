@@ -38,7 +38,10 @@ date_format = "Jan 2006"
   location = "Richmond, Virginia, United States"
   date_start = "2015-01-01"
   date_end = "2020-05-31"
-  description = ""
-  Responsibilities include:
+  description = """
+    Responsibilities include:
+  * Machine Learning
+  * Complex Network
+  """
 
 +++
