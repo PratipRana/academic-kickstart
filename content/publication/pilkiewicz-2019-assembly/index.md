@@ -35,6 +35,6 @@ publication_types:
 - 1
 abstract: ''
 publication: '*International Conference on Bio-inspired Information and Communication*'
-url_pdf: http://link.springer.com/10.1007/978-3-030-24202-2 http://link.springer.com/10.1007/978-3-030-24202-2_11
+url_pdf: http://link.springer.com/10.1007/978-3-030-24202-2
 doi: 10.1007/978-3-030-24202-2
 ---
